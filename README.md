@@ -1,0 +1,1 @@
+A full-stack Beauty Spa Management System with responsive customer and employee dashboards, booking and payment flows, and admin panels for managing services, bookings, employees, and business profiles using HTML, CSS, JavaScript, and backend APIs.
